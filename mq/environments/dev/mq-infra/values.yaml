@@ -1,4 +1,3 @@
 global: {}
 mq-infra:
   replicaCount: 1
-security: true
